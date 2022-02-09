@@ -1738,4 +1738,7 @@ Questão 431
 Quem funcou a "Armada Espanhola"?
 R: Felipe II
 
+Questão 432
+Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a lenda arturiana?
+R: Camlann
 .
