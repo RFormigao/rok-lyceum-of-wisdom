@@ -1738,4 +1738,7 @@ Questão 431
 Quem funcou a "Armada Espanhola"?
 R: Felipe II
 
+Questão 432
+As guerras Púnicas foram lutadas pela Antiga Roma e que outro imperio antigo?
+R: Cártago Antigo
 .
