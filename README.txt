@@ -105,7 +105,7 @@ Qual dos seguintes não dá créditos individuais?
 R: Dar recursos aos aliados
 
 Questão 26
-Qual das seguintes NÃO é uma das habilidades de El Cid?
+Qual dos seguintes NÃO é uma das habilidades de El Cid?
 R: Cavalaria
 
 Questão 27
