@@ -1745,4 +1745,8 @@ R: Cártago Antigo
 Questão 433
 Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a lenda arturiana?
 R: Camlann
+
+Questão 434
+A civilização fenícia se originou em qual parte do mundo?
+R: No Mediterrâneo Oriental
 .
