@@ -1754,4 +1754,8 @@ Questão 435
 Qual animal inspirou o nome do "Rio Tigre" no grego antigo?
 R: Tigre
 
+Questap 436
+Yi Seong-Gye é especialista em qual dos seguintes?
+R: Guarnição
+
 .
