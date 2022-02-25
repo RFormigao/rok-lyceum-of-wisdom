@@ -1758,4 +1758,7 @@ Questap 436
 Yi Seong-Gye é especialista em qual dos seguintes?
 R: Guarnição
 
+Questão 437
+Qual desses comandantes tem a capacidade de converter algumas unidades mortas em unidades gravemente feridas ao atacar uma cidade?
+R: Carlos Magno
 .
